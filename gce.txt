@@ -1,0 +1,19 @@
+Create a New Project on Google Cloud Platform (GCP):
+
+Go to the Google Cloud Console (https://console.cloud.google.com/).
+
+Click on the project dropdown menu at the top of the page and select "New Project".
+
+Enter a project name, select your organization or billing account, and click "Create".
+
+Enable App Engine:
+In the Google Cloud Console, navigate to the "App Engine" section from the left-hand menu.
+Click on "Get Started" if prompted to enable App Engine.
+click gimini(cha shejar box wal)
+Clone the Git Repository into the Project Directory:
+If you already have a Git repository, you can clone it into your project directory using the following command:
+bash
+Copy code
+git clone <repository-url>
+Replace <repository-url> with the URL of your Git repository.
+If you don't have an existing Git repository, you can initialize a new one and add remote origin later:
